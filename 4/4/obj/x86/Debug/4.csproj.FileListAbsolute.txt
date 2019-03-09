@@ -1,0 +1,12 @@
+D:\aasa\4\4\bin\Debug\4.exe
+D:\aasa\4\4\bin\Debug\4.pdb
+D:\aasa\4\4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\aasa\4\4\obj\x86\Debug\4.exe
+D:\aasa\4\4\obj\x86\Debug\4.pdb
+E:\aasa\4\4\obj\x86\Debug\4.exe
+E:\aasa\4\4\obj\x86\Debug\4.pdb
+F:\_\Паралельное программирование\4\4\obj\x86\Debug\4.exe
+F:\_\Паралельное программирование\4\4\obj\x86\Debug\4.pdb
+F:\_\Паралельное программирование\4\4\bin\Debug\4.exe
+F:\_\Паралельное программирование\4\4\bin\Debug\4.pdb
+F:\_\Паралельное программирование\4\4\obj\x86\Debug\4.csprojResolveAssemblyReference.cache
